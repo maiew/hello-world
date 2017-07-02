@@ -1,4 +1,4 @@
 # hello-world
 understand how to use github
-I'm a good guy i like programming and bla bla bla.
-bla bla bla...
+ 
+hello im maiew and im from new york in england.. i like github!!
